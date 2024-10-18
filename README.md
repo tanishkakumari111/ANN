@@ -1,2 +1,2 @@
 # ANN
-ANN
+Artificial Neural Network (ANN)
